@@ -190,7 +190,7 @@ function esPrimo(numero) {
     }
   }
   return true;
-}
+} 
 
 function esVerdadero(valor){
   //Escribe una función que reciba un valor booleano y retorne “Soy verdadero” 
